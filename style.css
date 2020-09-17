@@ -4,7 +4,10 @@
     border: 0;
 }
 
-#wrap-centered {
-    width: 90%;
-    margin: 0 auto;
+.list-style {
+    list-style-type:none;
+}
+
+.logos {
+    margin-left: 30% !important;
 }
